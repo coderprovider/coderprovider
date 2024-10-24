@@ -22,7 +22,9 @@ Hello
 <br><br>
 I am a dedicated and honest developer who loves my work. <br>
 This Github is the result of my efforts and success. <br>
-For the success of our business, try harder and harder... 
+For the success of our business, try harder and harder...... <br>
+[ Telegram : ](https://t.me/@coretect.com)
+
 <br><br>
 ✨With me:<br>
 <div style="display: flex; align-items: flex-start; align: center">
