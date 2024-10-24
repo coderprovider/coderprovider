@@ -18,15 +18,12 @@ Here are some ideas to get you started:
 <!-- [![Fahad GitHub Banner](./assets/pegasus.png)](https://github.com/TelamonPegasus) -->
 
 
-Hello 
-<br><br>
+Hello, I hope you are doing well!!! <br>
 I am a dedicated and honest developer who loves my work. <br>
 This Github is the result of my efforts and success. <br>
 For the success of our business, try harder and harder...... <br>
-<!--https://www.flaticon.com/free-icon/telegram_2111646 -->
-Let's connect  [<img src="https://www.flaticon.com/free-icon/telegram_2111646" alt="icon" width="65" height="65" />](https://t.me/@coretect.com)
-<br><br>
-✨With me:<br>
+<br>
+With me:<br>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
