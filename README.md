@@ -18,17 +18,11 @@ Here are some ideas to get you started:
 <!-- [![Fahad GitHub Banner](./assets/pegasus.png)](https://github.com/TelamonPegasus) -->
 
 
-👋 Hello everyone ! 
+Hello 
 <br><br>
-I am a talented developer with a creative eye and passion for creating seamless user experiences.😄<br>
-💻 My GitHub profile is a showcase of my feature-rich and optimized projects that leverage the power of Frontend, Backend, Database and so on.
-🚀 From interactive Frontend to powerful Backend APIs, I love the Full-Stack of Software development.
-<br><br>
-I enjoy taking on challenges and collaborating with other developers to solve complex problems. My code is optimized, maintainable, and follows best practices, ensuring a scalable and efficient solution. 🌟
-<br><br>
-Whether it's building dynamic user interfaces, implementing Restful APIs, or optimizing database queries, I'm always looking to expand my skills and contribute to innovative projects. Connect to GitHub and let’s research the endless possibilities of the MERN stack together! 😊
-<br><br>
-Towards the Best.
+I am a dedicated and honest developer who loves my work.
+This Github is the result of my efforts and success.
+For the success of our business, try harder and harder... 
 <br><br>
 ✨With me:<br>
 <div style="display: flex; align-items: flex-start; align: center">
