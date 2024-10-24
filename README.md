@@ -24,7 +24,7 @@ I am a dedicated and honest developer who loves my work. <br>
 This Github is the result of my efforts and success. <br>
 For the success of our business, try harder and harder...... <br>
 <!--https://www.flaticon.com/free-icon/telegram_2111646 -->
-Let's connect  [<img src="https://images.app.goo.gl/s8gJ7jX4G4onmsnQA" alt="icon" width="65" height="65" />](https://t.me/@coretect.com)
+Let's connect  [<img src="https://www.flaticon.com/free-icon/telegram_2111646" alt="icon" width="65" height="65" />](https://t.me/@coretect.com)
 <br><br>
 ✨With me:<br>
 <div style="display: flex; align-items: flex-start; align: center">
