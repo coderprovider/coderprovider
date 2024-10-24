@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- [![Fahad GitHub Banner](./assets/pegasus.png)](https://github.com/TelamonPegasus) -->
 
 
-Hello, I hope you are doing well!!! <br>
+Hello, I hope you are doing well. <br>
 I am a dedicated and honest developer who loves my work. <br>
 This Github is the result of my efforts and success. <br>
 For the success of our business, try harder and harder...... <br>
