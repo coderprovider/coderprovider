@@ -8,18 +8,16 @@ Hello, Thank you for visiting my Github. < br >
           <table align="center">
             <tr>
               <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-                <br>JavaScript
+                <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+                <br>Solidity
               </td>
               <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-                <br>TypeScript
+                <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+                <br>Rust
               </td>
               <td align="center" width="96">
-                <a href="#macropower-tech">
-                  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-                </a>
-                <br>Python
+                <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+                <br>Go
               </td>
               <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -44,18 +42,6 @@ Hello, Thank you for visiting my Github. < br >
             </tr>
             <tr>
               <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-                <br>Solidity
-              </td>
-              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-                <br>Rust
-              </td>
-              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-                <br>Go
-              </td>
-              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
                 <br>Nodejs
               </td>
@@ -67,21 +53,22 @@ Hello, Thank you for visiting my Github. < br >
                 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
                 <br>Github
               </td>
-            </td>
-          </tr>
-          <tr>
-            <td align="center" width="96">
-              <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-              <br>MySQL
-            </td>
-            <td align="center" width="96">
-              <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-              <br>MongoDB
-            </td>
-            <td align="center" width="96">
-              <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-              <br>PostgreSQL
-            </td>
-          </tr>
-        </table>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
+                <br>Docker
+              </td>
+              <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+                <br>MySQL
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+              </td>
+            </tr>
+          </table>
         </div >
