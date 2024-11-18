@@ -32,10 +32,6 @@ Hello, Thank you for visiting my Github. < br >
                 <br>Vue
               </td>
               <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-                <br>GraphQL
-              </td>
-              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
                 <br>TailwindCSS
               </td>
@@ -50,8 +46,8 @@ Hello, Thank you for visiting my Github. < br >
                 <br>Django
               </td>
               <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-                <br>Github
+                <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+                <br>GraphQL
               </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
