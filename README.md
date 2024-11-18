@@ -4,7 +4,7 @@ Hello, Thank you for visiting my Github. < br >
     This Github is the result of my efforts and business. < br >
       Let's work hard, create and develop.
         < br >
-       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettgideon&" alt="bettgideon" /></p>
+      [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
         <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
             <tr>
