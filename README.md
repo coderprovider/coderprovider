@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!-- [![Fahad GitHub Banner](./assets/pegasus.png)](https://github.com/TelamonPegasus) -->
 
 
-Hello, I hope you are doing well. <br>
+Hello, Thank you for visiting my Github. <br>
 I am a dedicated and honest developer who loves my work. <br>
-This Github is the result of my efforts and success. <br>
-For the success of our business, try harder and harder...... <br>
+This Github is the result of my efforts and business. <br>
+Let's work hard, create and develop.
 <br>
 With me:<br>
 <div style="display: flex; align-items: flex-start; align: center">
