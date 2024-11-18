@@ -4,9 +4,7 @@ Hello, Thank you for visiting my Github. < br >
     This Github is the result of my efforts and business. < br >
       Let's work hard, create and develop.
         < br >
-        <img
-     src="https://activity-graph.herokuapp.com/graph?username=DhanushKrishnan&theme=chartreuse-dark"
-     />
+       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bettgideon&" alt="bettgideon" /></p>
         <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
             <tr>
