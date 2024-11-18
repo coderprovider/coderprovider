@@ -87,7 +87,7 @@ With me:<br>
  </tr>
 </table>
 </div>
-<!-- <div style="display: inline_block">
+ <div style="display: inline_block">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -151,9 +151,9 @@ With me:<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="50" height="50" />
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50" />
-</div> -->
-<!-- <div>
+</div> 
+<div>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalstar0920&label=Profile%20views&color=0e75b6&style=flat" alt="crystalstar0920" /> </p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crystalstar0920" alt="crystalstar0920" /></a> </p>
-</div> -->
+</div> 
 
