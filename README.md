@@ -143,9 +143,6 @@ With me:<br>
     </td>
  </tr>
 </table>
-<br><br>
-
-
 </div>
 <!-- <div style="display: inline_block">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
