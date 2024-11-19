@@ -83,7 +83,7 @@ Hello, Thank you for visiting my Github. < br >
           <!--- 
           <br>
           [![Ren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderprovider&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph) 
-          --->
+          -->
         </div>
 
 
