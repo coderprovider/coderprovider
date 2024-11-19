@@ -81,7 +81,7 @@ Hello, Thank you for visiting my Github. < br >
         <div>
           [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
           <br>
-          [![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderprovider&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
+          [![Ren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderprovider&theme=high-contrast)]
         </div>
 
 
