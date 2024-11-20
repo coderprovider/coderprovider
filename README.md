@@ -1,9 +1,9 @@
 
-Hello, Thank you for visiting my Github. < br >
-  I am a dedicated and honest developer who loves my work. < br >
-    This Github is the result of my efforts and business. < br >
+Hello, Thank you for visiting my Github. <br>
+  I am a dedicated and honest developer who loves my work. <br>
+    This Github is the result of my efforts and business. <br>
       Let's work hard, create and develop.
-        < br >
+        <br>
          <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
             <tr>
