@@ -70,13 +70,14 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
         <br>
         <div align = "center">
           <span style="display:inline-block;" >
-            <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=coderprovider&hide=solidity,rust,react,typescript&langs_count=8&layout=compact&theme=radical&card_width=150" />
+            <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=coderprovider&hide=html,makefile,css,dockerfile&langs_count=8&layout=compact&theme=radical&card_width=150" />
           </span>
           <span style="display:inline-block;">
             <img src="https://github-profile-trophy.vercel.app/?username=coderprovider&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
           </span> 
         </div>
         <br>
+        
         <div>
           [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
           <!--- 
