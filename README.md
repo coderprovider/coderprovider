@@ -77,13 +77,12 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
           </span> 
         </div>
         <br>
-        
+        <!--
         <div>
           [![trophy](https://github-profile-trophy.vercel.app/?username=Bettgideon)](https://github.com/ryo-ma/github-profile-trophy)
-          <!--- 
           <br>
           [![Ren's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderprovider&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph) 
-          -->
         </div>
+        -->
 
 
