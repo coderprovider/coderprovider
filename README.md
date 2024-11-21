@@ -1,8 +1,7 @@
 
-Hello, Thank you for visiting my Github. <br>
-  I am a dedicated and honest developer who loves my work. <br>
-    This Github is the result of my efforts and business. <br>
-      Let's work hard, create and develop.
+👋 Hi!
+I'm a Blockchain and Front-end developer with a passion for building robust, scalable, and user-friendly applications. 
+With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I specialize in building *Smart Contract*, *DApp*, *NFT marketplace*, *Web wallet*, *NFT game*, *Node building*, *Trading Bot* and dynamic front-end interfaces. Whether designing complex token economics or creating responsive UI/UX designs, I bring your ideas to life with precision and creativity. Let's work together to push the boundaries of technology! 🚀
         <br>
          <div style="display: flex; align-items: flex-start; align: center">
           <table align="center">
