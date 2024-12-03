@@ -39,7 +39,7 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <br>Kubernetes
               </td>
               <td align="center" width="96">
-              <img src="https://www.svgrepo.com/svg/354115/nginx" width="48" height="48" alt="Nginx" />
+              <img src="https://github.com/user-attachments/assets/18090531-ed6b-41f2-9716-4eabe56efb8c" width="48" height="48" alt="Nginx" />
                 <br>Nginx
               </td>
               <td align="center" width="96">
