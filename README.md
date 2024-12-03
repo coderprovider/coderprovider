@@ -10,6 +10,8 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
                 <br>Solidity
               </td>
+              ![image](https://github.com/user-attachments/assets/03a30fe4-053d-4b3c-aa8b-84d9b42c0592)
+
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
                 <br>Rust
@@ -17,6 +19,10 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
                 <br>Go
+              </td>
+               <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Go" />
+                <br>kubernetes
               </td>
               <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -47,6 +53,10 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
                 <br>GraphQL
+              </td>
+               <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+                <br>nginx
               </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
