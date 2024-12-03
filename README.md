@@ -22,6 +22,12 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               ![image](https://github.com/user-attachments/assets/17722dbc-4f4c-45d0-ba04-86383acb8a31)
               </td>
               <td align="center" width="96">
+               ![image](https://github.com/user-attachments/assets/a21b9106-a774-4364-b928-bee157e0aafa)
+              </td>
+              <td align="center" width="96">
+              ![image](https://github.com/user-attachments/assets/b284f329-5b1a-48bd-a99c-1bd9234afafa)
+              </td>
+              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Go" />
               </td>
                <td align="center" width="96">
