@@ -14,6 +14,12 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
                 <br>Rust
               </td>
+               <td align="center" width="96">
+              ![image](https://github.com/user-attachments/assets/80d0f9df-4ee5-4a2b-996b-bcff232d5531)
+              <br>Hardhat
+                <!--- <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /> -->
+                <!---<br>Rust -->
+              </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
                 <br>Go
