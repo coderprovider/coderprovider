@@ -22,7 +22,7 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               ![image](https://github.com/user-attachments/assets/17722dbc-4f4c-45d0-ba04-86383acb8a31)
               </td>
               <td align="center" width="96">
-              <img src="[https://skillicons.dev/icons?i=go](https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=035)" width="48" height="48" alt="Go" />
+              <img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=035" width="48" height="48" alt="Go" />
               <!--- https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=035
                ![image](https://github.com/user-attachments/assets/a21b9106-a774-4364-b928-bee157e0aafa) -->
               </td>
