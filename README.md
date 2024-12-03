@@ -19,9 +19,20 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
               </td>
                <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Go" />
+              ![image](https://github.com/user-attachments/assets/17722dbc-4f4c-45d0-ba04-86383acb8a31)
               </td>
               <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Go" />
+              </td>
+               <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+              </td>
+            </tr>
+            <tr>
+             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
               </td>
               <td align="center" width="96">
@@ -31,11 +42,6 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
               </td>
               <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-              </td>
-            </tr>
-            <tr>
-              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
               </td>
               <td align="center" width="96">
@@ -43,9 +49,6 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-              </td>
-               <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
               </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
