@@ -15,7 +15,7 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <br>Rust
               </td>
                <td align="center" width="96">
-                  <img src=" https://techicons.dev/icons/hardhat" width="48" height="48" alt="Hardhat" />
+                  <img src="https://github.com/user-attachments/assets/3ac4fb1b-f991-4e5f-8a2e-ab26a3e3f315" width="48" height="48" alt="Hardhat" />
                   <br>Hardhat
               </td>
               <td align="center" width="96">
@@ -23,7 +23,7 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <br>Go
               </td>
                <td align="center" width="96">
-                <img src="https://www.svgrepo.com/svg/354079/mocha" width="48" height="48" alt="Mocha" />
+                <img src="https://github.com/user-attachments/assets/d950fe4d-f081-468e-b67c-c6c94b617a53" width="48" height="48" alt="Mocha" />
                 <br>Mocha
               </td>
               <td align="center" width="96">
@@ -35,7 +35,7 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               <br>Cosmos
               </td>
               <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+                <img src="https://github.com/user-attachments/assets/5288ad28-30d4-43fd-baf2-24ee379f9233" width="48" height="48" alt="Kubernetes" />
                 <br>Kubernetes
               </td>
               <td align="center" width="96">
