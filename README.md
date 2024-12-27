@@ -1,5 +1,5 @@
 
-👋 Hi!! <br>
+👋 Hi! <br>
 I am a *Software engineer* and *Blockchain Innovator* with a passion for building robust, scalable, and user-friendly applications. 
 With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I specialize in building *Smart Contract*, *DApp*, *NFT marketplace*, *Web wallet*, *NFT game*, *Node building*, *Trading Bot* and dynamic front-end interfaces. Whether designing complex token economics or creating responsive UI/UX designs, I bring your ideas to life with precision and creativity. Let's work together to push the boundaries of technology! 🚀
         <br><br>
