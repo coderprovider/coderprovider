@@ -22,17 +22,29 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
                 <br>Go
               </td>
-               <td align="center" width="96">
-                <img src="https://github.com/user-attachments/assets/d950fe4d-f081-468e-b67c-c6c94b617a53" width="48" height="48" alt="Mocha" />
-                <br>Mocha
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AIScript" />
+                <br>AI Script
               </td>
               <td align="center" width="96">
-              <img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=035" width="48" height="48" alt="Polkadot" />
-              <br>Polkadot
+                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+                <br>TensorFlow
               </td>
               <td align="center" width="96">
-              <img src="https://cryptologos.cc/logos/cosmos-atom-logo.png?v=035" width="48" height="48" alt="Cosmos" />
-              <br>Cosmos
+                <img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=035" width="48" height="48" alt="Polkadot" />
+                <br>Polkadot
+              </td>
+              <td align="center" width="96">
+                <img src="https://cryptologos.cc/logos/cosmos-atom-logo.png?v=035" width="48" height="48" alt="Cosmos" />
+                <br>Cosmos
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=ipfs" width="48" height="48" alt="IPFS" />
+                <br>IPFS
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nix" width="48" height="48" alt="NIX" />
+                <br>NIX
               </td>
               <td align="center" width="96">
                 <img src="https://github.com/user-attachments/assets/5288ad28-30d4-43fd-baf2-24ee379f9233" width="48" height="48" alt="Kubernetes" />
@@ -87,6 +99,10 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
                 <br>PostgreSQL
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+                <br>Prisma
               </td>
             </tr>
           </table>
