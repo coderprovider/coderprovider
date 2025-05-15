@@ -15,8 +15,8 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <br>Rust
               </td>
                <td align="center" width="96">
-                  <img src="https://github.com/user-attachments/assets/3ac4fb1b-f991-4e5f-8a2e-ab26a3e3f315" width="48" height="48" alt="Hardhat" />
-                  <br>Hardhat
+                  <img src="https://skillicons.dev/icons?i=haskell" width="48" height="48" alt="Haskell" />
+                  <br>Haskell
               </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
