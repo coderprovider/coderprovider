@@ -7,6 +7,14 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
           <table align="center">
             <tr>
               <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AIScript" />
+                <br>AI
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+                <br>TensorFlow
+              </td>
+              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
                 <br>Solidity
               </td>
@@ -21,22 +29,6 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
                 <br>Go
-              </td>
-              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="AIScript" />
-                <br>AI Script
-              </td>
-              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-                <br>TensorFlow
-              </td>
-              <td align="center" width="96">
-                <img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=035" width="48" height="48" alt="Polkadot" />
-                <br>Polkadot
-              </td>
-              <td align="center" width="96">
-                <img src="https://cryptologos.cc/logos/cosmos-atom-logo.png?v=035" width="48" height="48" alt="Cosmos" />
-                <br>Cosmos
               </td>
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=ipfs" width="48" height="48" alt="IPFS" />
