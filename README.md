@@ -39,14 +39,6 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <br>NIX
               </td>
               <td align="center" width="96">
-                <img src="https://github.com/user-attachments/assets/5288ad28-30d4-43fd-baf2-24ee379f9233" width="48" height="48" alt="Kubernetes" />
-                <br>Kubernetes
-              </td>
-              <td align="center" width="96">
-              <img src="https://github.com/user-attachments/assets/18090531-ed6b-41f2-9716-4eabe56efb8c" width="48" height="48" alt="Nginx" />
-                <br>Nginx
-              </td>
-              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
                 <br>Tailwind
               </td>
@@ -77,8 +69,26 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
                 <br>GraphQL
               </td>
               <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+                <br>FastAPI
+              </td>
+              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="48" height="48" />
                 <br>Docker
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+                <br>Prisma
+              </td>
+            </tr>
+            <tr>
+              <td align="center" width="96">
+                <img src="https://github.com/user-attachments/assets/5288ad28-30d4-43fd-baf2-24ee379f9233" width="48" height="48" alt="Kubernetes" />
+                <br>Kubernetes
+              </td>
+              <td align="center" width="96">
+                <img src="https://github.com/user-attachments/assets/18090531-ed6b-41f2-9716-4eabe56efb8c" width="48" height="48" alt="Nginx" />
+                <br>Nginx
               </td>
               <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
@@ -91,10 +101,6 @@ With expertise in *Solidity*,*Rust*, *Go*, *Anchor*, *React*, and *Node*, I spec
               <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
                 <br>PostgreSQL
-              </td>
-              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-                <br>Prisma
               </td>
             </tr>
           </table>
