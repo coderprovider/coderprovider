@@ -124,10 +124,10 @@ With expertise in *Langchain*, *LLM*, *NLP*, *Solidity*, *Rust*, *Go*, *Haskell*
         <br>
         <div align = "center">
           <span style="display:inline-block;" >
-            <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=coderprovider&hide=html,makefile,css,dockerfile.motoka,shell&langs_count=8&layout=compact&theme=vision-friendly-dark&card_width=150" />
+            <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=coderprovider&hide=html,makefile,css,dockerfile.motoka,shell&langs_count=8&layout=compact&theme=readical&card_width=150" />
           </span>
           <span style="display:inline-block;">
-            <img src="https://github-readme-stats.vercel.app/api?username=coderprovider&layout=compact&theme=vision-friendly-dark"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=coderprovider&layout=compact&theme=readical"/>
           </span> 
         </div>
         <br>
