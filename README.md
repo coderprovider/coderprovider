@@ -127,7 +127,7 @@ With expertise in *Langchain*, *LLM*, *NLP*, *Solidity*, *Rust*, *Go*, *Haskell*
             <img height=200 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=coderprovider&hide=html,makefile,css,dockerfile.motoka,shell&langs_count=8&layout=compact&theme=radical&card_width=150" />
           </span>
           <span style="display:inline-block;">
-            <img src="https://github-profile-trophy.vercel.app/?username=coderprovider&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
+            <img src="https://github.com/anuraghazra/github-readme-stats"/>
           </span> 
         </div>
         <br>
