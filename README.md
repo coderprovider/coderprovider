@@ -31,7 +31,7 @@ With expertise in *Langchain*, *LLM*, *NLP*, *Solidity*, *Rust*, *Go*, *Haskell*
                   <br>Haskell
               </td>
                <td align="center" width="96">
-                  <img src="https://getfoundry.sh/logo.png" width="48" height="48" alt="Foundry" />
+                  <img src="https://getfoundry.sh/foundry-logo.png" width="48" height="48" alt="Foundry" />
                   <br>Foundry
               </td>
               <td align="center" width="96">
